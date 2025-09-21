@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APOTK</string>
+    <string name="main_home">Main Home</string>
+    <string name="foto_toko">Foto Toko</string>
+    <string name="nama_toko">Nama Toko</string>
+    <string name="alamat_toko">Alamat Toko</string>
+    <string name="data_penjualan">Data Penjualan</string>
+    <string name="sales_chart">Sales Chart</string>
+    <string name="days_1">1 Days</string>
+    <string name="month_1">1 Month</string>
+    <string name="year_1">1 Years</string>
+    <string name="shop">Shop</string>
+    <string name="price">Price</string>
+    <string name="stock">Stock</string>
+    <string name="home">Home</string>
+</resources>
